@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources>
+<resources>
+
+    <string name="app_name">GpsWifiPosDifference</string>
+    <string name="textViewLocationDiff">Diff GPS and Wifi : wait…\n</string>
+    <string name="textViewLocationGpsInformation">○Location (GPS)\n  wait…\n\n\n\n\n\n\n</string>
+    <string name="textViewLocationWifiInformation">○Location (Wifi)\n  wait…\n\n\n\n\n\n\n</string>
+
+</resources>
